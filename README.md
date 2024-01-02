@@ -24,3 +24,8 @@ Screenshot of Live Site/Quiz Application:
 ## License
 
 This is a private project and therefore no License has been provided.
+
+## Credits
+
+I have used ChatGPT to help me comment the finished code in a way that is professional, while I am still learning best practice on commenting. 
+I have used ChatGPT to help me understand some JavaScript concepts as I progressed through the challenge, but a big effort has been made on keeping the code solutions original/my own.
