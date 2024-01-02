@@ -6,7 +6,7 @@ const questions = [
       correctAnswer: 1, // Index of the correct answer in the choices array
     },
     {
-      question: "Which keyword is used to declare a variable in JavaScript?",
+      question: "Which keyword is used to declare a constant variable in JavaScript?",
       choices: ["var", "let", "const", "variable"],
       correctAnswer: 2, // Index of the correct answer in the choices array
     },
